@@ -1,2 +1,5 @@
-# thash
-THash is a high-performance SHA256 file hashing tool written in C. Optimized for small and large files using mmap, multi-threading, and OpenSSL EVP API. Ideal for cybersecurity, forensics, and integrity verification.
+# ⚡ THash — Ultra-Fast SHA256 File Hasher in C
+
+[![C](https://img.shields.io/badge/Language-C-blue?logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![OpenSSL](https://img.shields.io/badge/Crypto-OpenSSL-green)](https://www.openssl.org/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
