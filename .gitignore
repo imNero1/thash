@@ -1,0 +1,14 @@
+# Compiled files
+*.exe
+*.out
+thash
+sha256_test.exe
+
+# Test files
+test_*.txt
+test_*.bin
+errors.txt
+
+# OS files
+.DS_Store
+Thumbs.db
