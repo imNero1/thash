@@ -104,7 +104,7 @@ The test suite will:
 
 3. **Smart Buffering**: Falls back to optimized buffered reading with 8 MB aligned buffers for smaller files or when memory mapping fails
 
-4. **Platform-Specific APIs**: Uses native OS APIs (Windows API on Windows, POSIX on Linux) for maximum performance
+4. **Platform-Specific APIs**: Uses native OS APIs (Windows API on Windows, POSIX on Linux) for maximum performance.
 
 ### Code Structure
 
